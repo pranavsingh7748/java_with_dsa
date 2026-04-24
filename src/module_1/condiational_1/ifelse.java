@@ -1,4 +1,4 @@
-package condiational;
+package module_1.condiational_1;
 
 public class ifelse {
     public static void main(String[] args) {
