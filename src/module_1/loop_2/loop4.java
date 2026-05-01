@@ -1,7 +1,7 @@
 // print Fibonacci Number
 package module_1.loop_2;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class loop4 {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
 
 package module_1.loop_2;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class loop5 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // print reverse number
 package module_1.loop_2;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class loop7 {
     public static void main(String[] args) {
