@@ -18,7 +18,6 @@ public class loop8 {
             int od = n % 10; // original digit
             int id =op; // inverted digit
             int ip = od; // inverted place
-
             // make change to inv using id and ip
             inv = inv + id * (int)Math.pow(10,ip - 1);
 
