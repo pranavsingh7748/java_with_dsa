@@ -6,7 +6,7 @@ This repository tracks my progress through a comprehensive, step-by-step foundat
 
 ### Module 1: Basics of Programming
 - [x] **Getting Started**: Fundamental concepts including Input/Output, Loops, Conditionals, and Data Types.
-- [x] **Patterns**: Logic building exercises involving various shapes and bar charts.
+- [ ] **Patterns**: Logic building exercises involving various shapes and bar charts.
 - [ ] **Number System**: Conversions between different bases such as Decimal, Binary, Octal, and Hexadecimal.
 - [ ] **Arrays & Functions**: Basics of storing multiple elements in 1D Arrays and implementing code reusability.
 - [ ] **2D Arrays**: Methods for working with and manipulating matrices.
