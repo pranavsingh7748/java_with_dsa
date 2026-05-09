@@ -7,8 +7,8 @@
 ### **Phase 1: Java Basics & Patterns**
 - [x] Getting Started (Input/Output, Variables)
 - [x] Conditionals and Loops
-- [x] Number Systems & Pattern Printing
-- [ ] Functions
+- [x] Pattern Printing
+- [ ] Functions & Number Systems 
 
 ### **Phase 2: Advanced Arrays & Strings**
 - [ ] 1D Arrays
@@ -38,17 +38,3 @@
 - [ ] Graph Theory (BFS, DFS, Dijkstra, MST)
 
 ---
-
-## 🛠️ Tech Stack
-* **Language:** Java
-* **IDE:** IntelliJ IDEA Community Edition (D: Drive Setup)
-* **Platforms:** LeetCode, CodeChef
-* **Major Project:** [Women Safety SOS App](https://github.com/Pranav-Singh/Women-Safety-SOS)
-
----
-
-## ✍️ Key Takeaway
-> "Logic first, syntax second. Understand the whiteboard before touching the keyboard."
-
----
-*Last Updated: 2026*
