@@ -1,39 +1,54 @@
-# Data Structures and Algorithms Foundation in Java
+# 🚀 Java DSA: Placement Foundation
+ **Student:** Pranav Singh  
+**Batch:** 2023–2027 | 
+---
+## 🗺️ Syllabus Checklist
 
-This repository tracks my progress through a comprehensive, step-by-step foundation in Java programming and data structures.
+### **Phase 1: Java Basics & Patterns**
+- [x] Getting Started (Input/Output, Variables)
+- [x] Conditionals and Loops
+- [x] Number Systems & Pattern Printing
+- [ ] Functions
 
-## 📚 Course Progress Tracker
+### **Phase 2: Advanced Arrays & Strings**
+- [ ] 1D Arrays
+- [ ] 2D Arrays (Matrix Operations)
+- [ ] String, StringBuilder, and ArrayLists
 
-### Module 1: Basics of Programming
-- [x] **Getting Started**: Fundamental concepts including Input/Output, Loops, Conditionals, and Data Types.
-- [x] **Patterns**: Logic building exercises involving various shapes and bar charts.
-- [ ] **Number System**: Conversions between different bases such as Decimal, Binary, Octal, and Hexadecimal.
-- [ ] **Arrays & Functions**: Basics of storing multiple elements in 1D Arrays and implementing code reusability.
-- [ ] **2D Arrays**: Methods for working with and manipulating matrices.
-- [ ] **Strings**: Handling and manipulating text-based information.
-- [ ] **ArrayList & StringBuilder**: Utilizing dynamic arrays and efficient classes for string modification.
+### **Phase 3: The Logic Core (Recursion & Backtracking)**
+- [ ] Introduction to Recursion (Euler Tree)
+- [ ] Recursion with Arrays & ArrayLists
+- [ ] Backtracking (N-Queens, Sudoku, Knight's Tour)
 
-### Module 2: Recursion & Algorithm Analysis
-- [ ] **Basics of Recursion**: Understanding functions that call themselves to solve problems like factorials; serving as the foundation for tree and graph logic.
-- [ ] **Time & Space Complexity**: Techniques for analyzing how much time and memory an algorithm consumes.
-- [ ] **Dynamic Programming**: An optimization technique that uses extra memory (memoization or tabulation) to reduce execution time.
+### **Phase 4: Dynamic Programming & Complexity**
+- [ ] Time and Space Complexity Analysis
+- [ ] Introduction to DP (Memoization vs. Tabulation)
+- [ ] Standard DP Problems (Knapsack, Coin Change, Goldmine)
 
-### Module 3: Core Data Structures
-- [ ] **Stacks and Queues**: Implementation of LIFO (Last-In-First-Out) and FIFO (First-In-First-Out) structures.
-- [ ] **Linked Lists**: Linear structures that use dynamic memory allocation.
-- [ ] **Generic Trees**: Hierarchical structures where nodes can have multiple children.
-- [ ] **Binary Trees**: Hierarchical structures where each node has at most two children.
-- [ ] **Binary Search Trees (BST)**: Specialized binary trees optimized for efficient searching and sorting.
+### **Phase 5: Linear Data Structures**
+- [ ] Stacks and Queues (Next Greater Element)
+- [ ] Linked Lists (Singly, Doubly, Circular)
 
-### Module 4: Advanced Data Structures
-- [ ] **Hashmaps & Heaps**: Key-value pair storage and implementation of priority-based queues.
-- [ ] **Graphs**: Introduction to graph representations and basic traversal algorithms like BFS (Breadth-First Search) and DFS (Depth-First Search).
+### **Phase 6: Hierarchical Structures**
+- [ ] Generic Trees & Binary Trees
+- [ ] Binary Search Trees (BST)
+
+### **Phase 7: Advanced Data Structures**
+- [ ] Hashmaps and Heaps
+- [ ] Graph Theory (BFS, DFS, Dijkstra, MST)
 
 ---
 
-## 🛠 Learning Workflow
-For every coding problem encountered, the following sequential approach is applied:
-- [ ] **Problem Understanding**: Identify the specific input requirements and the desired output.
-- [ ] **Independent Attempt**: Try to solve the problem and write the Java code independently first.
-- [ ] **Hint Analysis**: Look for small logical hints to proceed if stuck, avoiding the complete code.
-- [ ] **Solution Review**: Study the optimal solution to learn best practices and refine coding style.
+## 🛠️ Tech Stack
+* **Language:** Java
+* **IDE:** IntelliJ IDEA Community Edition (D: Drive Setup)
+* **Platforms:** LeetCode, CodeChef
+* **Major Project:** [Women Safety SOS App](https://github.com/Pranav-Singh/Women-Safety-SOS)
+
+---
+
+## ✍️ Key Takeaway
+> "Logic first, syntax second. Understand the whiteboard before touching the keyboard."
+
+---
+*Last Updated: 2026*
