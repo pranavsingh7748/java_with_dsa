@@ -8,7 +8,7 @@
 - [x] Getting Started (Input/Output, Variables)
 - [x] Conditionals and Loops
 - [x] Pattern Printing
-- [ ] Functions & Number Systems 
+- [x] Functions & Number Systems 
 
 ### **Phase 2: Advanced Arrays & Strings**
 - [ ] 1D Arrays
