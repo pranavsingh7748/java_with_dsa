@@ -1,3 +1,5 @@
+// find the element an array
+
 package module_2.array_1;
 import java.util.*;
 public class array5 {
