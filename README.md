@@ -12,7 +12,7 @@
 
 ### **Phase 2: Advanced Arrays & Strings**
 - [x] 1D Arrays
-- [ ] 2D Arrays (Matrix Operations)
+- [x] 2D Arrays (Matrix Operations)
 - [ ] String, StringBuilder, and ArrayLists
 
 ### **Phase 3: The Logic Core (Recursion & Backtracking)**
