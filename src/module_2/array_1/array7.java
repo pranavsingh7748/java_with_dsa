@@ -1,3 +1,5 @@
+// sum of two array
+
 package module_2.array_1;
 import java.util.*;
 public class array7 {
