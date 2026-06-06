@@ -1,11 +1,9 @@
 // finding number how many times to exist
 package module_1.function_4;
 
-import com.sun.source.tree.BreakTree;
-
 import java.util.Scanner;
 
-public class function2 {
+public class finding_number_how_many_times_to_exist {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

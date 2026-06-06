@@ -1,20 +1,22 @@
 // Rotate number
-
-
+//
+//
 // You are given two numbers n and k. You are required to rotate n, k times to the right. If k is positive. rotate to the right i.e. remove rightmost
 //  digit and make it leftmost. Do the reverse for negative value of k. Also k can have an absolute value larger than number of digits in n.
-//        2. Take as input n and k.
+//        2//. Take as input n and k.
 //        3. Print the rotated number.
 //        4. Note - Assume that the number of rotations will not cause leading o's in the result. e.g.
 //        such an input will not be given
 //        n - I2340056
 //        k-
 // Rotate number
+
+
 package module_1.loop_2;
 
 import java.util.Scanner;
 
-public class loop9 {
+public class rotate_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

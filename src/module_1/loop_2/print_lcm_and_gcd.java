@@ -3,7 +3,7 @@ package module_1.loop_2;
 
 import java.util.Scanner;
 
-public class loop10 {
+public class print_lcm_and_gcd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n1 = sc.nextInt();

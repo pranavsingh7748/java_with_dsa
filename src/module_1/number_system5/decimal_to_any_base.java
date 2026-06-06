@@ -1,30 +1,27 @@
-// Any base to Decimal
+// Decimal to any Base
 
 package module_1.number_system5;
 
 import java.util.Scanner;
 
-public class number_system2 {
+public class decimal_to_any_base {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int b = sc.nextInt();
-        int d = getValueInDecimal(n,b);
-        System.out.println(d);
+        int dn = getValueInBase(n,b);
+        System.out.println(dn);
     }
 
-    public static int getValueInDecimal(int n,int b){
+    public static int getValueInBase(int n , int b){
         int rv = 0;
-        int p = 1;
+        int p = 1; // p = power (0)
         while (n > 0){
-            int digt = n % 10;
-            n = n / 10;
-
+            int digt = n % b;
+            n = n / b;
             rv += digt * p;
-            p = p * b;
+            p = p * 10;
         }
-
-
         return rv;
     }
 }

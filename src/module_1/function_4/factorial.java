@@ -3,7 +3,7 @@ package module_1.function_4;
 
 import java.util.Scanner;
 
-public class function1 {
+public class factorial {
 
     public static void display (int n , int r, int npr){
         System.out.println(n + "p" + r + "=" + npr);

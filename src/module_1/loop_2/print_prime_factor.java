@@ -3,7 +3,7 @@ package module_1.loop_2;
 
 import java.util.Scanner;
 
-public class loop11 {
+public class print_prime_factor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -4,7 +4,7 @@ package module_1.loop_2;
 
 import java.util.Scanner;
 
-public class loop12 {
+public class pythagorean_triplets {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

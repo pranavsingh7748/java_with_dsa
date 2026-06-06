@@ -4,7 +4,7 @@ package module_1.number_system5;
 
 import java.util.Scanner;
 
-public class number_system3 {
+public class any_base_to_any_base {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

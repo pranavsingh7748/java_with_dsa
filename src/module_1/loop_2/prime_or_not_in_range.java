@@ -1,8 +1,8 @@
-//  print prime or not inn rang
+//  print prime or not in rang
 package module_1.loop_2;
 import java.util.*;
 
-public class loop3 {
+public class prime_or_not_in_range {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int low = sc.nextInt();

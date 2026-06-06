@@ -1,6 +1,6 @@
 package module_2.array_1;
 
-public class array1 {
+public class array {
     public static void main (String[] args){
 
         int [] arr = new int[5];
