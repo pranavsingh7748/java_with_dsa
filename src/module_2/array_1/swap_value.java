@@ -1,8 +1,14 @@
-// change the data
+// Swap value
 
 package module_2.array_1;
 
-public class array2 {
+public class swap_value {
+
+    public static void swap (int[] arr , int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] =temp;
+    }
     public static void main (String[] args){
 
         int [] arr = new int[5];
@@ -12,8 +18,7 @@ public class array2 {
         arr[3] = 55;
         arr[4] = 94;
 
-        int[] two = arr;
-        arr[2] = 5457;
+        swap(arr, 0, 4);
 
 
          for (int i = 0; i < arr.length; i++){

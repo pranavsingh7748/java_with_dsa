@@ -2,7 +2,7 @@
 
 package module_2.array_1;
  import java.util.*;
-public class array4 {
+public class swap_of_an_array {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -2,7 +2,7 @@
 
 package module_2.array_1;
 import java.util.*;
-public class array7 {
+public class sum_of_two_array {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

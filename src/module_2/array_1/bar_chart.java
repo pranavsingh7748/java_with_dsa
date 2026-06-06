@@ -1,7 +1,7 @@
 package module_2.array_1;
 import java.util.*;
 
-public class array6 {
+public class bar_chart {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

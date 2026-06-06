@@ -1,14 +1,8 @@
-// Swap value
+// change the data
 
 package module_2.array_1;
 
-public class array3 {
-
-    public static void swap (int[] arr , int i, int j){
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] =temp;
-    }
+public class cjange_the_data {
     public static void main (String[] args){
 
         int [] arr = new int[5];
@@ -18,7 +12,8 @@ public class array3 {
         arr[3] = 55;
         arr[4] = 94;
 
-        swap(arr, 0, 4);
+        int[] two = arr;
+        arr[2] = 5457;
 
 
          for (int i = 0; i < arr.length; i++){

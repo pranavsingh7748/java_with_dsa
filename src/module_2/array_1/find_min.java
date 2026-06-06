@@ -2,7 +2,7 @@
 
 package module_2.array_1;
 import java.util.*;
-public class array11it {
+public class find_min {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
