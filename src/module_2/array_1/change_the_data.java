@@ -2,7 +2,7 @@
 
 package module_2.array_1;
 
-public class cjange_the_data {
+public class change_the_data {
     public static void main (String[] args){
 
         int [] arr = new int[5];
