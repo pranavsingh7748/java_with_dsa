@@ -11,7 +11,7 @@
 - [x] Functions & Number Systems 
 
 ### **Phase 2: Advanced Arrays & Strings**
-- [x] 1D Arrays
+- [ ] 1D Arrays
 - [ ] 2D Arrays (Matrix Operations)
 - [ ] Stack
 - [ ] String, StringBuilder, and ArrayLists
