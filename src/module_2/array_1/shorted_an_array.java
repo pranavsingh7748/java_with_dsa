@@ -6,15 +6,15 @@ public class shorted_an_array {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        int n1 = sc.nextInt();
-        int[] a1 = new int[n1];
-        for(int i = 0; i < a1.length; i++){
-            a1[i] = sc.nextInt();
+        int n = sc.nextInt();
+        int[] a = new int[n];
+        for(int i = 0; i < a.length; i++){
+            a[i] = sc.nextInt();
         }
 
         boolean shorted = true;
-        for (int i = 0; i < a1.length -1; i++){
-            if(a1[i] > a1[i+1]){
+        for (int i = 0; i < a.length -1; i++){
+            if(a[i] > a[i+1]){
                 shorted = false;
                 break;
             }
