@@ -1,7 +1,5 @@
 package module_2.array_1;
-
 import java.util.Scanner;
-
 public class shorting_an_array {
     public static void amin(String[] args){
         Scanner sc = new Scanner(System.in);
