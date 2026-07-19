@@ -11,10 +11,11 @@
 - [x] Functions & Number Systems 
 
 ### **Phase 2: Advanced Arrays & Strings**
-- [ ] 1D Arrays
-- [ ] 2D Arrays (Matrix Operations)
+- [x] 1D Arrays
+- [x] 2D Arrays (Matrix Operations)
+- [x] ArrayLists
 - [ ] Stack
-- [ ] String, StringBuilder, and ArrayLists
+- [ ] String, StringBuilder  
 
 ### **Phase 3: The Logic Core (Recursion & Backtracking)**
 - [ ] Introduction to Recursion (Euler Tree)
