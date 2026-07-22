@@ -10,5 +10,6 @@ public class basic {
 
         System.out.println(s + "\t" + s.length());
 
+
     }
 }
