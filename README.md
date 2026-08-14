@@ -13,7 +13,7 @@
 ### **Phase 2: Advanced Arrays & Strings**
 - [x] 1D Arrays
 - [x] 2D Arrays (Matrix Operations)
-- [ ] ArrayLists
+- [x] ArrayLists
 - [ ] Stack
 - [ ] String, StringBuilder  
 
