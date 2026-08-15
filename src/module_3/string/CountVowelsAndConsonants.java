@@ -1,4 +1,4 @@
-package module_3;
+package module_3.string;
 import java.util.*;
 public class CountVowelsAndConsonants {
     public static void main(String[] args) {

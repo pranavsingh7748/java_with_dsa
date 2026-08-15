@@ -1,21 +1,19 @@
-package module_3;
+package module_3.string;
 import java.util.*;
 
-public class count_words {
+public class substring {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
         String s = sc.nextLine();
 
-        int spaceCount = 0;
-
         for (int i = 0; i < s.length(); i++) {
 
-            if (s.charAt(i) == ' ') {
-                spaceCount++;
+            for (int j = i + 1; j <= s.length(); j++) {
+
+                System.out.print(s.substring(i,j) + " ");
             }
         }
-        System.out.println(spaceCount + 1);
     }
 }
