@@ -184,8 +184,8 @@
 ### Module 4: 2D Arrays & Matrix
 
 #### Matrix Basics
-- [ ] Create 2D Array
-- [ ] Scanner Input
+- [x] Create 2D Array
+- [x] Scanner Input
 - [ ] Traversal
 - [ ] Row / Column Traversal
 - [ ] Matrix Printing
