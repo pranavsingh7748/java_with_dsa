@@ -191,10 +191,10 @@
 - [x] Matrix Printing
 
 #### Matrix Operations
-- [ ] Matrix Addition
-- [ ] Row Sum
-- [ ] Column Sum
-- [ ] Transpose
+- [x] Matrix Addition
+- [x] Row Sum
+- [x] Column Sum
+- [x] Transpose
 
 #### Matrix Manipulation
 - [ ] Reverse Each Row
