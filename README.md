@@ -186,9 +186,9 @@
 #### Matrix Basics
 - [x] Create 2D Array
 - [x] Scanner Input
-- [ ] Traversal
-- [ ] Row / Column Traversal
-- [ ] Matrix Printing
+- [x] Traversal
+- [x] Row / Column Traversal
+- [x] Matrix Printing
 
 #### Matrix Operations
 - [ ] Matrix Addition
