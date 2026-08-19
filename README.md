@@ -197,9 +197,9 @@
 - [x] Transpose
 
 #### Matrix Manipulation
-- [ ] Reverse Each Row
-- [ ] Reverse Each Column
-- [ ] Rotate Matrix 90°
+- [x] Reverse Each Row
+- [x] Reverse Each Column
+- [x] Rotate Matrix 90°
 - [ ] Spiral Matrix
 - [ ] Set Matrix Zeroes
 
