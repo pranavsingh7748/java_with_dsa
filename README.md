@@ -37,22 +37,22 @@
 - [ ] Scope
 
 #### Number System & Basic Problems
-- [ ] Even / Odd
-- [ ] Prime Number
-- [ ] Factorial
-- [ ] Fibonacci
-- [ ] Reverse Number
-- [ ] Palindrome Number
-- [ ] Armstrong Number
-- [ ] Sum of Digits
-- [ ] GCD
-- [ ] LCM
-- [ ] Leap Year
-- [ ] Perfect Number
-- [ ] Strong Number
-- [ ] Power of a Number
-- [ ] Decimal to Binary
-- [ ] Binary to Decimal
+- [x] Even / Odd
+- [x] Prime Number
+- [x] Factorial
+- [x] Fibonacci
+- [x] Reverse Number
+- [x] Palindrome Number
+- [x] Armstrong Number
+- [x] Sum of Digits
+- [x] GCD
+- [x] LCM
+- [x] Leap Year
+- [x] Perfect Number
+- [x] Strong Number
+- [x] Power of a Number
+- [x] Decimal to Binary
+- [x] Binary to Decimal
 
 #### Pattern Printing
 - [x] Star Patterns
