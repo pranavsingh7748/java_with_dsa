@@ -30,10 +30,10 @@
 - [x] continue
 
 #### Methods & Functions
-- [ ] Method creation
-- [ ] Parameters
-- [ ] Return values
-- [ ] Method overloading
+- [x] Method creation
+- [x] Parameters
+- [x] Return values
+- [x] Method overloading
 - [ ] Scope
 
 #### Number System & Basic Problems
