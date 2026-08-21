@@ -200,8 +200,8 @@
 - [x] Reverse Each Row
 - [x] Reverse Each Column
 - [x] Rotate Matrix 90°
-- [ ] Spiral Matrix
-- [ ] Set Matrix Zeroes
+- [x] Spiral Matrix
+- [x] Set Matrix Zeroes
 
 #### Matrix Searching
 - [ ] Search in 2D Matrix
