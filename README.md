@@ -34,7 +34,7 @@
 - [x] Parameters
 - [x] Return values
 - [x] Method overloading
-- [ ] Scope
+- [x] Scope
 
 #### Number System & Basic Problems
 - [x] Even / Odd
@@ -222,9 +222,9 @@
 ### Module 5: ArrayList & Java Collections
 
 #### ArrayList
-- [ ] Create
-- [ ] Add
-- [ ] Get
+- [x] Create
+- [x] Add
+- [x] Get
 - [ ] Set
 - [ ] Remove
 - [ ] Size
