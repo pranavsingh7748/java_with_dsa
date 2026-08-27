@@ -225,7 +225,7 @@
 - [x] Create
 - [x] Add
 - [x] Get
-- [ ] Set
+- [x] Set
 - [ ] Remove
 - [ ] Size
 - [ ] Traversal
