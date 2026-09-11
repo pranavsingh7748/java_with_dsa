@@ -228,7 +228,7 @@
 - [x] Set
 - [x] Remove
 - [x] Size
-- [ ] Traversal
+- [x] Traversal
 
 #### Collections Framework
 - [ ] Collection Interface
