@@ -227,7 +227,7 @@
 - [x] Get
 - [x] Set
 - [x] Remove
-- [ ] Size
+- [x] Size
 - [ ] Traversal
 
 #### Collections Framework
