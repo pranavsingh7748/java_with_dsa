@@ -141,8 +141,8 @@
 - [x] Generate Subsets
 
 #### Kadane & Advanced Array Problems
-- [ ] Kadane's Algorithm
-- [ ] Maximum Subarray Sum
+- [x] Kadane's Algorithm
+- [x] Maximum Subarray Sum
 - [ ] Maximum Product Subarray
 - [ ] Majority Element
 - [ ] Leaders in Array
