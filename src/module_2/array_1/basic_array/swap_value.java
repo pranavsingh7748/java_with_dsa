@@ -1,6 +1,6 @@
 // Swap value
 
-package module_2.array_1;
+package module_2.array_1.basic_array;
 
 public class swap_value {
 

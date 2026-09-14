@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.basic_array;
 import java.util.Scanner;
 public class shorting_an_array {
     public static void amin(String[] args){

@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.advance_array;
 import  java.util.*;
 public class maximum_subarrays_sum {
     public static void main(String[] args) {

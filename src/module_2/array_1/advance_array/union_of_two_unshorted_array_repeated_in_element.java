@@ -1,7 +1,6 @@
-package module_2.array_1;
+package module_2.array_1.advance_array;
 import java.util.*;
-public class union_of_two_unshoted_array {
-
+public class union_of_two_unshorted_array_repeated_in_element {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
@@ -32,7 +31,7 @@ public class union_of_two_unshoted_array {
             }
         }
 
-        // shot second array
+       // shot second array
 
         for(int i = 0; i < n2-1; i++ ){
             for(int j = 0; j < n2 - 1 - i; j++){
@@ -49,30 +48,41 @@ public class union_of_two_unshoted_array {
         int i = 0;
         int j = 0;
         while (i < n1 && j < n2){
+
             if (arr1[i] < arr2[j]){
-                System.out.print(arr1[i] + " ");
+
+                if(i==0 || arr1[i] != arr1[i-1]) {  // this checks that number is repeat or not
+                    System.out.print(arr1[i] + " ");
+                }
                 i++;
+
             } else if (arr1[i] > arr2[j]) {
-                System.out.print(arr2[j] + " ");
+                if (j == 0 || arr2[j] != arr2[j - 1]) {
+                    System.out.print(arr2[j] + " ");
+                }
                 j++;
+
             } else {
-                System.out.print(arr1[i] + " ");
+                if(i == 0 || arr1[i] != arr1[i-1]) {
+                    System.out.print(arr1[i] + " ");
+                }
                 i++;
                 j++;
             }
         }
 
         while (i < n1){
-            System.out.print(arr1[i] + " ");
+            if(i == 0 || arr1[i] != arr1[i-1]) {
+                System.out.print(arr1[i] + " ");
+            }
             i++;
         }
         while (j < n2){
-            System.out.print(arr2[j] + " ");
+            if(i == 0 || arr2[j] != arr2[j-1]) {
+                System.out.print(arr2[j] + " ");
+            }
             j++;
         }
 
     }
 }
-
-
-

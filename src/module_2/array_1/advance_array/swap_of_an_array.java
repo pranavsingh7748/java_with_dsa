@@ -1,6 +1,6 @@
 // Span of an array
 
-package module_2.array_1;
+package module_2.array_1.advance_array;
  import java.util.*;
 public class swap_of_an_array {
     public static void main (String[] args){

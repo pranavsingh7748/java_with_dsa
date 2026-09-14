@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.advance_array;
 import java.util.*;
 public class number_that_appears_once_and_other_numbers_twice {
     public static void main(String[] args) {
