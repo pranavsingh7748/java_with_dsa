@@ -98,8 +98,8 @@
 
 #### Searching
 - [x] Linear Search
-- [ ] Binary Search
-- [ ] First Occurrence
+- [x] Binary Search
+- [x] First Occurrence
 - [ ] Last Occurrence
 - [ ] Lower Bound
 - [ ] Upper Bound
