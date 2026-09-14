@@ -1,6 +1,6 @@
 // CHECK ARRAY IS SHORTED OR NOT
 
-package module_2.array_1;
+package module_2.array_1.basic_array;
 import java.util.*;
 public class shorted_an_array {
     public static void main(String[] args){

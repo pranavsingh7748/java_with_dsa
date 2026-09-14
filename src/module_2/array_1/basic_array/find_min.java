@@ -1,6 +1,6 @@
 // MINIMUM ELEMENT
 
-package module_2.array_1;
+package module_2.array_1.basic_array;
 import java.util.*;
 public class find_min {
     public static void main(String[] args){

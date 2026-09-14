@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.array_manipulation;
 import  java.util.*;
 public class longest_subarray_sum_k {
     public static void main(String[] args) {

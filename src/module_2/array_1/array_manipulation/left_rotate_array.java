@@ -1,27 +1,27 @@
-package module_2.array_1;
+package module_2.array_1.array_manipulation;
 import java.util.*;
-public class move_zero_to_end {
+public class left_rotate_array {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-
         int n = sc.nextInt();
         int[] arr = new int[n];
 
-        for(int i = 0; i < n; i++){
+        for(int i = 0 ; i < n; i++){
             arr[i] = sc.nextInt();
         }
+        int k = sc.nextInt();
+        for(int r = 0; r < k; r++){
+            int temp = arr[0];
 
-        int j = 0;
-        for(int i = 0; i < n; i++){
-            if(arr[i] != 0) {
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
-                j++;
+            for(int i = 0; i < n -1; i++){
+                arr[i] = arr[i+1];
             }
+            arr[n-1] = temp;
         }
+
         for(int i = 0; i < n; i++){
             System.out.println(arr[i] + " ");
         }
     }
+
 }

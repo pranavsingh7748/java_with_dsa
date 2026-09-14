@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.basic_array;
 import java.util.*;
 public class find_average {
     public static void main(String[] arge){

@@ -1,6 +1,6 @@
 // difference to array
 
-package module_2.array_1;
+package module_2.array_1.basic_array;
 import java.util.*;
 public class difference_of_two_array {
     public static void main(String[] args){

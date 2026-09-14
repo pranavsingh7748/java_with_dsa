@@ -97,7 +97,7 @@
 - [x] Frequency of Element
 
 #### Searching
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Binary Search
 - [ ] First Occurrence
 - [ ] Last Occurrence
