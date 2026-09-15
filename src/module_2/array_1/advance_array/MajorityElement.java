@@ -1,4 +1,4 @@
-package module_2.array_1.array_manipulation;
+package module_2.array_1.advance_array;
 import  java.util.*;
 public class MajorityElement {
     public static void main(String[] args) {

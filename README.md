@@ -144,7 +144,7 @@
 - [x] Kadane's Algorithm
 - [x] Maximum Subarray Sum
 - [ ] Maximum Product Subarray
-- [ ] Majority Element
+- [x] Majority Element
 - [x] Leaders in Array
 - [x] Stock Buy & Sell
 
