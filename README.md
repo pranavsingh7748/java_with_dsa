@@ -145,8 +145,8 @@
 - [x] Maximum Subarray Sum
 - [ ] Maximum Product Subarray
 - [ ] Majority Element
-- [ ] Leaders in Array
-- [ ] Stock Buy & Sell
+- [x] Leaders in Array
+- [x] Stock Buy & Sell
 
 ---
 
