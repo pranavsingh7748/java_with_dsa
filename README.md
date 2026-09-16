@@ -100,7 +100,7 @@
 - [x] Linear Search
 - [x] Binary Search
 - [x] First Occurrence
-- [ ] Last Occurrence
+- [x] Last Occurrence
 - [ ] Lower Bound
 - [ ] Upper Bound
 
