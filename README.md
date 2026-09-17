@@ -101,7 +101,7 @@
 - [x] Binary Search
 - [x] First Occurrence
 - [x] Last Occurrence
-- [ ] Lower Bound
+- [x] Lower Bound
 - [ ] Upper Bound
 
 #### Array Manipulation
