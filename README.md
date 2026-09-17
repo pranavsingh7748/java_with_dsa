@@ -103,6 +103,8 @@
 - [x] Last Occurrence
 - [x] Lower Bound
 - [x] Upper Bound
+- [ ] Floor
+- [ ] Ceil
 
 #### Array Manipulation
 - [x] Reverse Array
