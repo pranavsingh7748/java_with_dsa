@@ -104,7 +104,7 @@
 - [x] Lower Bound
 - [x] Upper Bound
 - [x] Floor
-- [ ] Ceil
+- [x] Ceil
 
 #### Array Manipulation
 - [x] Reverse Array
