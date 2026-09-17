@@ -102,7 +102,7 @@
 - [x] First Occurrence
 - [x] Last Occurrence
 - [x] Lower Bound
-- [ ] Upper Bound
+- [x] Upper Bound
 
 #### Array Manipulation
 - [x] Reverse Array
