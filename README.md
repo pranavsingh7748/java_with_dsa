@@ -131,7 +131,7 @@
 
 #### Sliding Window
 - [x] Fixed Window
-- [ ] Variable Window
+- [x] Variable Window
 - [ ] Maximum / Minimum Window
 - [ ] Window Sum
 
