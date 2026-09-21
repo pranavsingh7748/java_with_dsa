@@ -318,10 +318,10 @@
 - [ ] Reverse String
 - [ ] Palindrome String
 - [ ] Count Words
-- [~] Remove Spaces
-- [~] Character Frequency
-- [~] Duplicate Characters
-- [~] Remove Duplicate Characters
+- [ ] Remove Spaces
+- [ ] Character Frequency
+- [ ] Duplicate Characters
+- [ ] Remove Duplicate Characters
 
 #### Placement String Problems
 - [ ] Anagram
