@@ -145,7 +145,7 @@
 #### Kadane & Advanced Array Problems
 - [x] Kadane's Algorithm
 - [x] Maximum Subarray Sum
-- [ ] Maximum Product Subarray
+- [~] Maximum Product Subarray
 - [x] Majority Element
 - [x] Leaders in Array
 - [x] Stock Buy & Sell
