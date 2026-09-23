@@ -20,7 +20,7 @@ public class prefix_sum {
             prefix[i] = prefix[i - 1] + arr[i];
         }
 
-        for (int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             System.out.println(prefix[i] + " ");
         }
 
