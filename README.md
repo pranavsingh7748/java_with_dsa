@@ -125,7 +125,7 @@
 #### Prefix / Suffix Techniques
 - [x] Prefix Sum
 - [x] Suffix Sum
-- [ ] Prefix Maximum
+- [x] Prefix Maximum
 - [ ] Suffix Maximum
 - [ ] Difference Array
 
