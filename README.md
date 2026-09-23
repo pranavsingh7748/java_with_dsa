@@ -123,11 +123,11 @@
 - [x] Move Zeroes
 
 #### Prefix / Suffix Techniques
-- [x] Prefix Sum
-- [x] Suffix Sum
-- [x] Prefix Maximum
-- [x] Suffix Maximum
-- [x] Difference Array
+- [ ] Prefix Sum
+- [ ] Suffix Sum
+- [ ] Prefix Maximum
+- [ ] Suffix Maximum
+- [ ] Difference Array
 
 #### Sliding Window
 - [ ] Fixed Window
