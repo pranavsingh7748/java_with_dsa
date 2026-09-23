@@ -123,7 +123,7 @@
 - [x] Move Zeroes
 
 #### Prefix / Suffix Techniques
-- [ ] Prefix Sum
+- [x] Prefix Sum
 - [ ] Suffix Sum
 - [ ] Prefix Maximum
 - [ ] Suffix Maximum
