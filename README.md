@@ -126,8 +126,8 @@
 - [x] Prefix Sum
 - [x] Suffix Sum
 - [x] Prefix Maximum
-- [ ] Suffix Maximum
-- [ ] Difference Array
+- [x] Suffix Maximum
+- [x] Difference Array
 
 #### Sliding Window
 - [ ] Fixed Window
