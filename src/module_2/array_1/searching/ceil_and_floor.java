@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.searching;
 import java.util.*;
 public class ceil_and_floor {
     public static void main(String[] args){
