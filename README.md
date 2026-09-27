@@ -112,7 +112,7 @@
 - [x] Rotate Right
 - [x] Rotate by K
 - [x] Inverse Array
-- [ ] Merge Two Arrays
+- [x] Merge Two Arrays
 - [ ] Move Zeroes to End
 - [x] Remove Duplicates
 
