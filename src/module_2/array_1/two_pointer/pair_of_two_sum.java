@@ -1,8 +1,10 @@
-package module_2.array_1;
+package module_2.array_1.two_pointer;
 import java.util.*;
-public class two_sum {
+public class pair_of_two_sum {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
+
         int n = sc.nextInt();
         int[] arr = new int[n];
 
@@ -11,7 +13,9 @@ public class two_sum {
         }
 
         int target = sc.nextInt();
+
         boolean found = false;
+
         for(int i = 0; i < arr.length; i++){
             for(int j = i + 1; j < arr.length; j++){
 

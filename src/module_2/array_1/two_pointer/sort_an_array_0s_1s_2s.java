@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.two_pointer;
 import java.util.*;
 public class sort_an_array_0s_1s_2s {
     public static void main(String[] args) {

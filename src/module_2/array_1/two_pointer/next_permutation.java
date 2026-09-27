@@ -1,4 +1,4 @@
-package module_2.array_1;
+package module_2.array_1.two_pointer;
 import java.util.*;
 public class next_permutation {
     public static void main(String[] args) {

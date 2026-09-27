@@ -1,6 +1,6 @@
 // change the data
 
-package module_2.array_1;
+package module_2.array_1.basic_array;
 
 public class change_the_data {
     public static void main (String[] args){

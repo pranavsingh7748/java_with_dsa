@@ -113,14 +113,14 @@
 - [x] Rotate by K
 - [x] Inverse Array
 - [x] Merge Two Arrays
-- [ ] Move Zeroes to End
+- [x] Move Zeroes to End
 - [x] Remove Duplicates
 
 #### Two Pointers
-- [ ] Pair Sum
+- [x] Pair Sum
 - [x] Two Sum in Sorted Array
 - [x] Remove Duplicates
-- [ ] Move Zeroes
+- [x] Move Zeroes
 
 #### Prefix / Suffix Techniques
 - [x] Prefix Sum
