@@ -130,8 +130,8 @@
 - [x] Difference Array
 
 #### Sliding Window
-- [ ] Fixed Window
-- [ ] Variable Window
+- [x] Fixed Window
+- [x] Variable Window
 - [ ] Maximum / Minimum Window
 - [ ] Window Sum
 
