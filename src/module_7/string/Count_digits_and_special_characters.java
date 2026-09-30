@@ -1,4 +1,4 @@
-package module_3.string;
+package module_7.string;
 import java.util.*;
 
 public class Count_digits_and_special_characters {
