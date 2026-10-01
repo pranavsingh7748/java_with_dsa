@@ -156,7 +156,7 @@
 
 #### Basic Sorting
 - [x] Bubble Sort
-- [ ] Selection Sort
+- [x] Selection Sort
 - [ ] Insertion Sort
 
 #### Advanced Sorting

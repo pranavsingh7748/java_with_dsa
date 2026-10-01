@@ -1,4 +1,4 @@
-package module_3;
+package module_3.basic_shorting;
 import java.util.*;
 
 public class bubble_sort {
