@@ -1,4 +1,4 @@
-package modul_3;
+package module_3;
 import java.util.*;
 
 public class bubble_sort {

@@ -155,7 +155,7 @@
 ### Module 3: Sorting & Searching
 
 #### Basic Sorting
-- [ ] Bubble Sort
+- [x] Bubble Sort
 - [ ] Selection Sort
 - [ ] Insertion Sort
 
