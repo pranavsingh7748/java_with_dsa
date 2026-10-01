@@ -157,7 +157,7 @@
 #### Basic Sorting
 - [x] Bubble Sort
 - [x] Selection Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 
 #### Advanced Sorting
 - [ ] Merge Sort
@@ -219,9 +219,44 @@
 
 ---
 
-## 🔵 Phase 2: Java Toolkit & Strings (Most Asked in Interviews)
 
-### Module 5: ArrayList & Java Collections
+## 🔵 Phase 2: Object-Oriented Programming (Bridge to Advanced DSA)
+
+### Module 5: Java OOPs & Core Concepts
+
+#### Classes & Objects Foundation
+[ ] Classes and Objects
+[ ] Memory Allocation (Heap vs Stack)
+[ ] new Keyword & Garbage Collection Basics
+[ ] Constructors (Default, Parameterized, Copy)
+[ ] this Keyword
+[ ] Wrapper Classes (Integer vs int, Character vs char)
+[ ] Autoboxing & Unboxing
+
+#### The 4 Pillars of OOP
+
+[ ] Encapsulation & Data Hiding
+[ ] Access Modifiers (private, public, protected, default)
+[ ] Getters and Setters
+[ ] Inheritance (Single, Multilevel, Hierarchical)
+[ ] super Keyword & Constructor Chaining
+[ ] Polymorphism (Compile-time / Overloading & Run-time / Overriding)
+[ ] Dynamic Method Dispatch
+[ ] Abstraction (Abstract Classes vs Interfaces)
+[ ] Multiple Inheritance using Interfaces
+
+#### Crucial Java Keywords & Concepts
+
+[ ] static Keyword (Variables, Methods, Blocks, Nested Classes)
+[ ] final Keyword (Variables, Methods, Classes)
+[ ] Packages & Imports
+[ ] Exception Handling (try, catch, finally, throw, throws)
+[ ] Generics in Java (Prerequisite for Collections like <Integer>, <String>)
+
+
+## 🔵 Phase 3: Java Toolkit & Strings (Most Asked in Interviews)
+
+### Module 6: ArrayList & Java Collections
 
 #### ArrayList
 - [x] Create
@@ -258,7 +293,7 @@
 
 ---
 
-### Module 6: Hashing
+### Module 7: Hashing
 
 #### Hashing Basics
 - [ ] Hash Function
@@ -296,7 +331,7 @@
 
 ---
 
-### Module 7: Strings
+### Module 8: Strings
 
 #### String Basics
 - [ ] Create String
@@ -345,9 +380,9 @@
 
 ---
 
-## 🟠 Phase 3: The "Magic" Modules (Advanced Logic)
+## 🟠 Phase 4: The "Magic" Modules (Advanced Logic)
 
-### Module 8: Bit Manipulation
+### Module 9: Bit Manipulation
 
 #### Bit Basics
 - [ ] Binary Representation
@@ -372,7 +407,7 @@
 
 ---
 
-### Module 9: Recursion
+### Module 10: Recursion
 
 #### Recursion Basics
 - [ ] Recursive Function
@@ -406,7 +441,7 @@
 
 ---
 
-### Module 10: Backtracking
+### Module 11: Backtracking
 
 #### Backtracking Basics
 - [ ] Choose
@@ -428,9 +463,9 @@
 
 ---
 
-## 🔴 Phase 4: Linear Data Structures
+## 🔴 Phase 5: Linear Data Structures
 
-### Module 11: Linked List
+### Module 12: Linked List
 
 #### Linked List Basics
 - [ ] Node
@@ -473,7 +508,7 @@
 
 ---
 
-### Module 12: Stack
+### Module 13: Stack
 
 #### Stack Basics
 - [ ] LIFO
@@ -509,7 +544,7 @@
 
 ---
 
-### Module 13: Queue & Deque
+### Module 14: Queue & Deque
 
 #### Queue Basics
 - [ ] FIFO
@@ -538,9 +573,9 @@
 
 ---
 
-## 🟢 Phase 5: Trees & Priority (Non-Linear)
+## 🟢 Phase 6: Trees & Priority (Non-Linear)
 
-### Module 14: Trees
+### Module 15: Trees
 
 #### Tree Basics
 - [ ] Root
@@ -584,7 +619,7 @@
 
 ---
 
-### Module 15: Binary Search Tree
+### Module 16: Binary Search Tree
 
 #### BST Basics
 - [ ] BST Property
@@ -605,7 +640,7 @@
 
 ---
 
-### Module 16: Heap
+### Module 17: Heap
 
 #### Heap Basics
 - [ ] Complete Binary Tree
@@ -633,9 +668,9 @@
 
 ---
 
-## 🔥 Phase 6: The Deciders (High Package Topics)
+## 🔥 Phase 7: The Deciders (High Package Topics)
 
-### Module 17: Greedy Algorithms
+### Module 18: Greedy Algorithms
 
 #### Greedy Basics
 - [ ] Greedy Choice
@@ -657,7 +692,7 @@
 
 ---
 
-### Module 18: Graphs
+### Module 19: Graphs
 
 #### Graph Basics
 - [ ] Vertex
@@ -707,7 +742,7 @@
 
 ---
 
-### Module 19: Dynamic Programming
+### Module 20: Dynamic Programming
 
 #### DP Basics
 - [ ] Overlapping Subproblems
@@ -757,9 +792,9 @@
 
 ---
 
-## 🟡 Phase 7: Competitive & Advanced (Top-Tier)
+## 🟡 Phase 8: Competitive & Advanced (Top-Tier)
 
-### Module 20: Tries
+### Module 21: Tries
 
 #### Trie Basics
 - [ ] Trie Node
@@ -776,7 +811,7 @@
 
 ---
 
-### Module 21: Advanced String Algorithms
+### Module 22: Advanced String Algorithms
 
 #### Pattern Matching
 - [ ] Naive Pattern Matching
@@ -792,7 +827,7 @@
 
 ---
 
-### Module 22: Range Query Data Structures
+### Module 23: Range Query Data Structures
 
 #### Segment Tree
 - [ ] Build
@@ -809,7 +844,7 @@
 
 ---
 
-### Module 23: Advanced Algorithms
+### Module 24: Advanced Algorithms
 
 #### Divide & Conquer
 - [ ] Binary Search
