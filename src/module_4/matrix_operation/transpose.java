@@ -1,4 +1,4 @@
-package module_2.multidimentional;
+package module_4.matrix_operation;
 import java.util.*;
 public class transpose {
     public static void main(String[] args) {

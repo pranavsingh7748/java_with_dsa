@@ -1,4 +1,4 @@
-package module_2.multidimentional;
+package module_4.matrix_manipulation;
 import java.util.*;
 public class reverse_each_row {
     public static void main(String[] args) {

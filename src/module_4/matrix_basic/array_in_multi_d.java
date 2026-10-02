@@ -1,4 +1,4 @@
-package module_2.multidimentional;
+package module_4.matrix_basic;
 
 public class array_in_multi_d {
 

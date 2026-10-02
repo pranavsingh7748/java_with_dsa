@@ -1,14 +1,13 @@
-package module_2.multidimentional;
+package module_4.matrix_basic;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class second_way_to_output {
+public class enhance_for_loop {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int[][] arr = new int[3][3];
-
         System.out.println(arr.length);
 
 //        input
@@ -19,10 +18,8 @@ public class second_way_to_output {
             }
         }
 
-//        output
-        for(int row = 0; row < arr.length; row++){
-            System.out.println(Arrays.toString(arr[row]));
-        }
-
+         for (int[] a : arr){
+             System.out.println(Arrays.toString(a));
+         }
     }
 }
