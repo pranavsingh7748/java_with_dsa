@@ -206,7 +206,7 @@
 - [x] Set Matrix Zeroes
 
 #### Matrix Searching
-- [ ] Search in 2D Matrix
+- [x] Search in 2D Matrix
 - [ ] Search in Sorted 2D Matrix
 - [ ] LeetCode 74
 
