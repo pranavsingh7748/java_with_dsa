@@ -12,21 +12,18 @@ public class SearchIna2DMatrix {
 
         int[][] arr = new int[rows][cols];
 
-        // Input matrix
-        for (int row = 0; row < rows; row++) {
+         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
                 arr[row][col] = sc.nextInt();
             }
         }
 
-        // Input target
-        int target = sc.nextInt();
+         int target = sc.nextInt();
 
 
         boolean found = false;
 
-        // Search target
-        for (int row = 0; row < rows; row++) {
+         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
 
                 if (arr[row][col] == target) {
