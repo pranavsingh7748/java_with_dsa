@@ -207,8 +207,8 @@
 
 #### Matrix Searching
 - [x] Search in 2D Matrix
-- [ ] Search in Sorted 2D Matrix
-- [ ] LeetCode 74
+- [x] Search in Sorted 2D Matrix
+- [x] LeetCode 74
 
 #### Advanced Matrix Problems
 - [ ] Diagonal Traversal
