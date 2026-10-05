@@ -211,7 +211,7 @@
 - [x] LeetCode 74
 
 #### Advanced Matrix Problems
-- [ ] Diagonal Traversal
+- [x] Diagonal Traversal
 - [ ] Boundary Traversal
 - [ ] Rotate 180°
 - [ ] Rotate 270°
