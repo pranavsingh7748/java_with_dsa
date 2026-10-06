@@ -212,7 +212,7 @@
 
 #### Advanced Matrix Problems
 - [x] Diagonal Traversal
-- [ ] Boundary Traversal
+- [x] Boundary Traversal
 - [ ] Rotate 180°
 - [ ] Rotate 270°
 - [ ] Search in Row & Column Sorted Matrix
