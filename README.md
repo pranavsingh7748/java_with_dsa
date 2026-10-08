@@ -214,7 +214,7 @@
 - [x] Diagonal Traversal
 - [x] Boundary Traversal
 - [x] Rotate 180°
-- [ ] Rotate 270°
+- [x] Rotate 270°
 - [ ] Search in Row & Column Sorted Matrix
 
 ---
