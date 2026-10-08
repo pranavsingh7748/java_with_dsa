@@ -1,4 +1,4 @@
-package module_4.array2D_and_matrix.matrix_searching;
+package module_4.array2D_and_matrix.advanced_matrix_problem;
 import java.util.*;
 
 public class rotate_180 {
