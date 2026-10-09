@@ -208,15 +208,12 @@
 #### Matrix Searching
 - [x] Search in 2D Matrix
 - [x] Search in Sorted 2D Matrix
-- [x] LeetCode 74
 
 #### Advanced Matrix Problems
 - [x] Diagonal Traversal
 - [x] Boundary Traversal
 - [x] Rotate 180°
 - [x] Rotate 270°
-- [ ] Search in Row & Column Sorted Matrix
-
 ---
 
 
@@ -225,7 +222,7 @@
 ### Module 5: Java OOPs & Core Concepts
 
 #### Classes & Objects Foundation
-[ ] Classes and Objects
+[x] Classes and Objects
 [ ] Memory Allocation (Heap vs Stack)
 [ ] new Keyword & Garbage Collection Basics
 [ ] Constructors (Default, Parameterized, Copy)
