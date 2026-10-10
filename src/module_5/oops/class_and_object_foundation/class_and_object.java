@@ -1,4 +1,4 @@
-package module_5.oops;
+package module_5.oops.class_and_object_foundation;
 
 public class class_and_object {
     public static class Car{
