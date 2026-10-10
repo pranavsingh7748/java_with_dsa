@@ -223,7 +223,7 @@
 
 #### Classes & Objects Foundation
 [x] Classes and Objects
-[ ] Memory Allocation (Heap vs Stack)
+[x] Memory Allocation (Heap vs Stack)
 [ ] new Keyword & Garbage Collection Basics
 [ ] Constructors (Default, Parameterized, Copy)
 [ ] this Keyword
