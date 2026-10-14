@@ -224,7 +224,7 @@
 #### Classes & Objects Foundation
 [x] Classes and Objects
 [x] Memory Allocation (Heap vs Stack)
-[x] new Keyword & Garbage Collection Basics
+[ ] new Keyword & Garbage Collection Basics
 [ ] Constructors (Default, Parameterized, Copy)
 [ ] this Keyword
 [ ] Wrapper Classes (Integer vs int, Character vs char)
