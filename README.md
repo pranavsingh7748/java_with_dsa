@@ -225,7 +225,7 @@
 [x] Classes and Objects
 [x] Memory Allocation (Heap vs Stack)
 [x] new Keyword & Garbage Collection Basics
-[ ] Constructors (Default, Parameterized, Copy)
+[x] Constructors (Default, Parameterized, Copy)
 [ ] this Keyword
 [ ] Wrapper Classes (Integer vs int, Character vs char)
 [ ] Autoboxing & Unboxing
