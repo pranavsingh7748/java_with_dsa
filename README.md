@@ -227,7 +227,7 @@
 [x] new Keyword & Garbage Collection Basics
 [x] Constructors (Default, Parameterized, Copy)
 [x] this Keyword
-[ ] Wrapper Classes (Integer vs int, Character vs char)
+[x] Wrapper Classes (Integer vs int, Character vs char)
 [ ] Autoboxing & Unboxing
 
 #### The 4 Pillars of OOP
