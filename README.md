@@ -63,7 +63,7 @@
 - [x] Inverted Patterns
 
 #### Time & Space Complexity
-- [ ] Big-O
+- [x] Big-O
 - [ ] Big-Theta
 - [ ] Big-Omega
 - [ ] Best Case
