@@ -65,7 +65,7 @@
 #### Time & Space Complexity
 - [x] Big-O
 - [x] Big-Theta
-- [ ] Big-Omega
+- [x] Big-Omega
 - [ ] Best Case
 - [ ] Average Case
 - [ ] Worst Case
