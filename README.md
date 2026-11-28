@@ -66,7 +66,7 @@
 - [x] Big-O
 - [x] Big-Theta
 - [x] Big-Omega
-- [ ] Best Case
+- [x] Best Case
 - [ ] Average Case
 - [ ] Worst Case
 - [ ] Auxiliary Space
